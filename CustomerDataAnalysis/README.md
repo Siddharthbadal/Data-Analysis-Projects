@@ -43,6 +43,8 @@ EDA involved data exploration, sampling, adding and remvoing columns that help u
     ).sort_values(by="ProductId", ascending=False)
 ```
 
+![chart](https://github.com/Siddharthbadal/Data-Analysis-Projects/assets/55015090/3efcf4cf-029e-4e85-a441-eb09720fdd54)
+
 ### Findings
   - Found over 10 products which are frequently brought by customers.
   - Frequent buyers and non frequent buyers both have hihger postive ratings supported by sentiment analysis on reviews text.
