@@ -2,6 +2,9 @@
 
 ### Project Overview
 This data analysis project aims to provide insights into the customers purchasing pattersns of an e-commerce company over the past few years. By analyzing various aspects of the customers data that include reviews, ratings, produtcs, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the product's performance and overall sales patterns.
+
+![chart](https://github.com/Siddharthbadal/Data-Analysis-Projects/assets/55015090/5c6660a1-4dd7-4c59-b880-0cf4e3b265ad)
+
   
 ### Database
 Primary dataset of Customers was avilable on a csv file as well as a dqlite file. dataset containes multiple columns about products, time, reviws, rraing,and customer details.
